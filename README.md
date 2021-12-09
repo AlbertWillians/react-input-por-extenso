@@ -1,9 +1,9 @@
 # React Input por Extenso
 
-| ---------------------------- | ----------------- | ----------------------------- | 
 | [Instalação](#como-instalar) | [Uso](#como-usar) | [Propriedades](#propriedades) |
 | ---------------------------- | ----------------- | ----------------------------- | 
 
+#
 
 Componente React que retorna número por extenso
 
