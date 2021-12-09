@@ -1,4 +1,5 @@
-# React Input por Extenso ![npm](https://img.shields.io/npm/v/react-input-por-extenso-2)
+# React Input por Extenso 
+![npm](https://img.shields.io/npm/v/react-input-por-extenso-2)
 
 Componente React que retorna número por extenso
 
