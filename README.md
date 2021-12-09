@@ -13,7 +13,7 @@ npm install react-input-por-extenso
 # ou
 yarn add react-input-por-extenso
 ```
-
+| [Voltar](#react-input-por-extenso) |
 ## Como usar 
 
 Uma forma básica de como utilizar o componente:
@@ -42,7 +42,7 @@ const App = () => {
 ReactDOM.render(<App />, document.getElementById("root"))
 
 ```
-
+| [Voltar](#react-input-por-extenso) |
 ## Propriedades
 
 Esse componente é uma abstração  de um componente input de tipo numérico,
@@ -51,3 +51,5 @@ todas as propriedades de um input estão disponíveis.
 | Propriedade | Valor inicial | Tipo   | Descrição                     |
 | ----------- | ------------- | ------ | ----------------------------- |
 | tipoExtenso | normal        | string | Formato de extensão do número |
+
+| [Voltar](#react-input-por-extenso) |
