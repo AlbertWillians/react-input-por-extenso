@@ -1,4 +1,7 @@
-# React Input por Extenso [link to como-usar](#como-usar)
+# React Input por Extenso 
+[Como Instalar](#como-instalar)
+[Como Usar](#como-usar)
+[Propriedades](#propriedades)
 
 Componente React que retorna número por extenso
 
