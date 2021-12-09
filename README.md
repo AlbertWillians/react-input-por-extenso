@@ -1,11 +1,10 @@
 # React Input por Extenso
 
+Componente React que retorna número por extenso
+#
 | [Instalação](#como-instalar) | [Uso](#como-usar) | [Propriedades](#propriedades) |
 | ---------------------------- | ----------------- | ----------------------------- | 
-
 #
-
-Componente React que retorna número por extenso
 
 ## Como instalar 
 
@@ -17,6 +16,7 @@ npm install react-input-por-extenso
 yarn add react-input-por-extenso
 ```
 | [Voltar](#react-input-por-extenso) |
+| ---------------------------------- |
 ## Como usar 
 
 Uma forma básica de como utilizar o componente:
@@ -46,6 +46,7 @@ ReactDOM.render(<App />, document.getElementById("root"))
 
 ```
 | [Voltar](#react-input-por-extenso) |
+| ---------------------------------- |
 ## Propriedades
 
 Esse componente é uma abstração  de um componente input de tipo numérico,
@@ -56,3 +57,4 @@ todas as propriedades de um input estão disponíveis.
 | tipoExtenso | normal        | string | Formato de extensão do número |
 
 | [Voltar](#react-input-por-extenso) |
+| ---------------------------------- |
